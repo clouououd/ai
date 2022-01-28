@@ -1,0 +1,25 @@
+[day03_ai]
+변수는 데이터를 담는 것이 아니라 그 데이터가 저장되어있는 위치를 가르킨다.
+특정 언어는 실제로 담고 있는것도 있다.
+
+python	   vs 	java
+if		if, switch
+for, while		for, while, do~while
+
+for vs while
+for : 몇 번 반복해야할지 알고 있을 때 주로 사용
+while : 몇 번 반복해야할지 모를 때 주로 사용
+for문을 while문으로 만들 수 있고 그 반대도 가능하다.
+
+처음 구조를 짤때 생각할 것
+1) 경우의 수를 몇개로 나누는가?
+2) 반복이 얼마나 필요한가?
+3) 변수는 몇개가 필요한가?
+
+{}을 입력하면 dict가 생성된다.
+빈 set 만들기
+x=set() ....... type(x)=set, x={}
+
+user = input('입력:')
+num, currency = user.split()
+print(float(num) * 환율[currencey], '원')
