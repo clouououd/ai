@@ -1,0 +1,22 @@
+(day06_ai)
+[Algorism2]
+영화감상 : 론 하워드 감독의 뷰티풀 마인드
+
+백만달러짜리 문제
+https://blog.naver.com/winemania/20000859104
+7문제 중 한문제는 풀림
+https://www.claymath.org/millennium-problems
+
+과제 : BinarySearch Diagram 코드로 만들기
+---------------------------------------------------------------------------
+[예외 처리]
+	・ 프로그램 실행 전에 발생하는 오류 - 구문 오류 syntax error
+	・ 프로그램 실행 중에 발생하는 오류 - 런타임 오류 runtime error 혹은 예외 exception
+
+	- if로 예외처리
+		- 많이 사용되는 방법이 아니다.
+	- try except (else) (finally)
+		- 에러가 안나면 try부분에서 종료됨
+		- 에러가 발생하면 except부분으로 이동하여 진행함
+		- 에러가 발생하지 않으면 else 부분을 실행
+		- 에러가 발생하던 발생하지 않던 finally 부분은 실행됨
