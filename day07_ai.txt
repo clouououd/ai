@@ -1,0 +1,35 @@
+(day07_ai)
+[Algorithm 3]
+[Hash Search]
+	- 선형 탑색이나 이진 탐색의 전체 조건은 어떤 데이터가 어떤 요소(index)에 있는지
+	  전혀 모르는 상태에서 검색을 시작한다는 것이다.
+	- 그러나 해시 탐색법은 데이터의 '내용'과 저장한 곳의 '요소'를 미리 저장할 때
+	  연계를 해서 극히(***) 짧은 시간 안에 탐색 할 수 있도록 고안된 알고리즘이다.
+
+keunsooyoon/ai - 강사님 파일, 깃허브에서 검색
+
+많이 사용하는 모듈 : 넘파일 판다쓰 싸이큘러
+
+프레임워크/모듈/라이브러리
+
+모듈과 라이브러리는 용어만 다름
+파이썬 - 모듈
+자바 -라이브러리
+
+프레임워크는 다른 개념 더 큰 개념
+
+파이썬의 약점 : 하드웨어, 웹개발 *이유는?
+
+크롤링?? 원하는 데이터를 웹사이트에서 가져와서 분석하는 것
+# 웹에서 f12를 누르면 보이는 정보를 가져옴
+
+무슨 에러?
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+selenium 4.1.0 requires urllib3[secure]~=1.26, but you have urllib3 1.25.11 which is incompatible.
+datascience 0.10.6 requires folium==0.2.1, but you have folium 0.8.3 which is incompatible.
+Successfully installed datetime-4.3 pybithumb-1.0.21 urllib3-1.25.11 websockets-10.1 zope.interface-5.4.0
+WARNING: The following packages were previously imported in this runtime:
+  [urllib3]
+You must restart the runtime in order to use newly installed versions
+
+pyqt 어플리케이션 프레임워크에 대한 파이썬 버전
