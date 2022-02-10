@@ -1,0 +1,30 @@
+(day08_ai)
+[언어 순위]
+	https://githut.info/
+	Backend
+	   world
+	1. java script
+	2. java
+	3. python
+	* Objective - C : 애플에서 쓰는 개발용어
+
+[class]
+java는 python보다 좀 더 객체지향
+[self의 의미]
+java에서의 this와 같다
+
+cf) python vs java
+JAVA는 100% class 기반으로 function이 없고 method만 존재한다.
+따라서 class 없이 프로그램 작성이 불가능하다. 
+
+[클래스 변수]
+클래스 = 붕어빵 틀
+객체 = 슈크림 붕어빵, 팥 붕어빵, 초코 붕어빵 등...
+클래스 변수 = 붕어빵에 공통적으로 들어가는 재료 예)밀가루 반죽
+
+시험
+홈페이지에 일정표 있음
+불합격시 보충수업
+불참시 미리 알려주기
+
+정규표현식 : java까지 완료한후 배우는게 좋다.
