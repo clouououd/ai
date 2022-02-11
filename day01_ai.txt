@@ -12,7 +12,7 @@ awesomeclass
 	austiny@gatech.edu
 
 출첵
-	출석번호 05 김정관 - zoom 입장시 05김정관으로 입장
+	출석번호 09 김정관 - zoom 입장시 09김정관으로 입장
 	2시에 중간 확인
 
 해외 java script
