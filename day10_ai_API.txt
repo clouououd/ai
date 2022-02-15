@@ -1,0 +1,10 @@
+[day10_ai_API]
+
+API
+
+CNN 알고리즘
+
+json : 파이썬에서 제이손을 다룰수있게 해주는 라이브러리
+	* 웹에서 주고 받을때에는 json이 편하다
+json.loads(x) : json의 형태인 x를 dict형태로 바꿔줌
+json.dumps(x, ident=n) : json의 형태인 x를 줄바꿈과 들여쓰기를 한 형태로 바꿔줌
